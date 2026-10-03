@@ -1,0 +1,16 @@
+{
+  "name": "engagemii",
+  "displayName": "Engagemii AI Visibility",
+  "version": "1.0.0",
+  "description": "Check how visible any company is to AI answer engines like ChatGPT, Claude, Perplexity and Gemini. Look up AI visibility scores from the Engagemii index of about 70 million companies, run a live audit of a site, see which brands AI is recommending right now, and request a free fix kit for your own site.",
+  "author": { "name": "Engagemii", "email": "gp@engagemii.com", "url": "https://engagemii.com" },
+  "homepage": "https://engagemii.com",
+  "repository": "https://github.com/engagemii/engagemii-claude-plugin",
+  "license": "MIT",
+  "icon": "./icon.png",
+  "keywords": ["ai-visibility", "aeo", "geo", "seo", "chatgpt", "brand", "marketing"],
+  "documentationUrl": "https://engagemii.com/aeo/mcp",
+  "supportUrl": "https://engagemii.com/contact",
+  "privacyPolicyUrl": "https://engagemii.com/privacy",
+  "termsOfServiceUrl": "https://engagemii.com/terms"
+}

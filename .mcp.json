@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "engagemii": {
+      "type": "http",
+      "url": "https://api.engagemii.com/api/mcp"
+    }
+  }
+}
