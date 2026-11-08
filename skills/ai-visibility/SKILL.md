@@ -5,7 +5,7 @@ description: Use when someone asks how visible a company, brand or website is to
 
 # AI visibility with Engagemii
 
-Engagemii scores how well AI answer engines can find, read and cite a company, from an index of about 70 million companies. The score runs from 0 to 10.
+Engagemii scores how well AI answer engines can find, read and name a company, from an index of more than 82 million companies. The score runs from 0 to 10.
 
 Pick the tool that fits the question:
 
@@ -16,10 +16,13 @@ Pick the tool that fits the question:
 - Which AI engines are reading company pages right now: `ai_readstream`.
 - Fixing their own site: `free_kit` requests the free Customized Fix Kit. It is for the person's own brand only and needs their email; the download link is emailed after a one-click confirmation.
 - Monitoring AI crawler visits on their own site: `connect_tracker`.
+- A look at the shape of the company data: `dataset_sample` returns 15 live rows with the 113 columns of a purchased file.
+- Company data: `data_signup` creates a free data account with just an email address (the API key is shown after the sign-in link is clicked). With the key, `search_companies` finds companies by industry, state and score range, `data_records` pulls full records from the account's purchased quota, and `data_orders` lists the account's orders and download links.
+- A fix kit bought before October 2026: `kit_download` with the checkout session id.
 
 Good practice:
 
 - Ask for the domain if the person only gives a company name and it is ambiguous.
 - Compare at most a few companies at a time; do not try to list or rank large numbers of companies.
 - Explain results in plain words and suggest one concrete next step.
-- For buying company data, point to https://engagemii.com/aeo/data.
+- For buying company data, point to https://engagemii.com/aeo/data. Company records cost 10 cents each, 4 cents from 5,000.
