@@ -2,7 +2,7 @@
 
 See how visible any company is to AI answer engines like ChatGPT, Claude, Perplexity and Gemini, right inside Claude.
 
-This plugin connects Claude to the [Engagemii](https://engagemii.com) MCP server. Engagemii scores how well AI engines can find, read and name a company, across an index of more than 82 million companies.
+This plugin connects Claude to the [Engagemii](https://engagemii.com) MCP server. Engagemii scores how well AI engines can find, read and name a company, across an index of more than 81 million companies.
 
 ## What you can ask
 

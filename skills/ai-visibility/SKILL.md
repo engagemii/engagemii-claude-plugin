@@ -5,7 +5,7 @@ description: Use when someone asks how visible a company, brand or website is to
 
 # AI visibility with Engagemii
 
-Engagemii scores how well AI answer engines can find, read and name a company, from an index of more than 82 million companies. The score runs from 0 to 10.
+Engagemii scores how well AI answer engines can find, read and name a company, from an index of more than 81 million companies. The score runs from 0 to 10.
 
 Pick the tool that fits the question:
 
