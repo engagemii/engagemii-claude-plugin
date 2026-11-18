@@ -32,7 +32,7 @@ This plugin connects Claude to the [Engagemii](https://engagemii.com) MCP server
 
 The free tools need no account or API key. Searching the dataset and pulling records need a free data account from [engagemii.com/aeo/data](https://engagemii.com/aeo/data), which `data_signup` can create.
 
-Company records cost 10 cents each, 4 cents from 5,000; details at https://engagemii.com/aeo/data.
+Company records cost 10 cents each, 5 cents from 5,000; details at https://engagemii.com/aeo/data.
 
 ## Install
 
