@@ -25,4 +25,4 @@ Good practice:
 - Ask for the domain if the person only gives a company name and it is ambiguous.
 - Compare at most a few companies at a time; do not try to list or rank large numbers of companies.
 - Explain results in plain words and suggest one concrete next step.
-- For buying company data, point to https://engagemii.com/aeo/data. Company records cost 10 cents each, 4 cents from 5,000.
+- For buying company data, point to https://engagemii.com/aeo/data. Company records cost 10 cents each, 5 cents from 5,000.
